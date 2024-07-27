@@ -1,0 +1,16 @@
+{
+	"name":"NFT-GeonerGO 1kW #1",
+	"description":"The NFT owner receives a daily award in accordance with the terms of the project geonergo.com\n\nFunds from the implementation of the GeonerGO NFT are controlled by a smart-contract and redirected together with GEONERGO tokens (GeonerGO green energy project token) to the GEONERGO/TON liquidity pool on ston.fi DEX\n\nThe daily reward is paid to the wallet of the owner of NFT-GeonerGO-100 kW in GEONERGO tokens.\n\nThe amount of the daily reward is calculated as AWARD = 100 GEONERGO * price_in_TON/ N-month, where N is the serial number of the month from the start of the project 08-08-2024 starting from N = 1",
+	"image": "https://github.com/AlexxChicvarin/GeonerGO_NFT/blob/main/nft/2.jpg",
+	"attributes": [
+		{
+			"trait_type": "Power",
+			"value": "1"
+		},
+		{
+			"trait_type": "Index",
+			"value": "1"
+		}
+	]
+}
+
